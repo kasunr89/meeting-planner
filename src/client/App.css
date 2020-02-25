@@ -2,14 +2,14 @@ table, th, td {
     border: 1px solid black;
 }
 
-.section-1 {
+.form-section {
     margin: auto;
     width: 50%;
     border: 3px solid green;
     padding: 10px;
 }
 
-.section-2 {
+.meeting-table-section {
     margin: auto;
     width: 50%;
     border: 3px solid green;
